@@ -37,3 +37,9 @@ main p {
   font-size: 2em;
   font-weight: 600;
 }
+
+#reset-game {
+  display: block;
+  padding: 0.75em 2em;
+  margin: 0.75em auto;
+}
