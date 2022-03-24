@@ -18,3 +18,14 @@ main p {
   display: inline;
   background-color: '';
 }
+
+#bolls-color-container {
+  margin-top: 2em;
+}
+
+.ball {
+  display: inline-block;
+  width: 5em;
+  height: 5em;
+  border-radius: 100%;
+}
