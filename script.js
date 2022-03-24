@@ -25,7 +25,6 @@ function inicializaGame() {
     bollColor.className = 'ball';
     bollColor.style.backgroundColor = `${createRandomColor()}`;
     colors.push(bollColor.style.backgroundColor);
-    bollColor.style.border = '1px solid black';
     bollsColorContainer.appendChild(bollColor);
   }
 

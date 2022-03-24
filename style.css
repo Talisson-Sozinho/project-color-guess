@@ -16,7 +16,6 @@ main {
 
 main p {
   display: inline;
-  background-color: '';
 }
 
 #score {
@@ -32,6 +31,7 @@ main p {
   display: inline-block;
   width: 5em;
   height: 5em;
+  border: 1px solid black;
   border-radius: 100%;
   margin-left: 2em;
 }
