@@ -8,3 +8,13 @@
   text-align: center;
   margin-top: 1em;
 }
+
+main {
+  text-align: center;
+  padding-top: 0.75em;
+}
+
+main p {
+  display: inline;
+  background-color: '';
+}
