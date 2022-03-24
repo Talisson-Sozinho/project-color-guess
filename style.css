@@ -19,6 +19,11 @@ main p {
   background-color: '';
 }
 
+#score {
+  display: block;
+  margin-top: 0.5em;
+}
+
 #bolls-color-container {
   margin-top: 2em;
 }
